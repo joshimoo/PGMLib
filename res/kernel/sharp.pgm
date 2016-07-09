@@ -1,0 +1,7 @@
+P2
+# sharp filter kernel
+3 3
+1
+0 -1 0
+-1 5 -1
+0 -1 0
