@@ -1,5 +1,6 @@
 #PGMLib
 PGMLib is a C Library for working with Pixel Gray Map Images (PGM files)
+
 [![Build Status](https://travis-ci.org/joshimoo/PGMLib.svg?branch=master)](https://travis-ci.org/joshimoo/PGMLib)
 
 
@@ -13,20 +14,24 @@ PGMLib is a C Library for working with Pixel Gray Map Images (PGM files)
 
 [Edges example] (example/edges.c)
 usage: ./blur src.pgm out.pgm
+
 <img src="doc/img/elk.png" width="45%"></img> <img src="doc/img/elk-edges.png" width="45%"></img> 
 
 
 [Median example] (example/median.c)
 usage: ./blur src.pgm out.pgm filterSize
+
 <img src="doc/img/ski.png" width="45%"></img> <img src="doc/img/ski-median.png" width="45%"></img>
 
 
 [Blur example] (example/blur.c)
 usage: ./blur src.pgm out.pgm
+
 <img src="doc/img/apples.png" width="45%"></img> <img src="doc/img/apples-blur.png" width="45%"></img>
 
 [Sharpen example] (example/sharpen.c)
 usage: ./sharpen src.pgm out.pgm
+
 <img src="doc/img/apples.png" width="45%"></img> <img src="doc/img/apples-sharpen.png" width="45%"></img>
 
 
