@@ -1,4 +1,4 @@
-#PGMLib
+# PGMLib
 PGMLib is a C Library for working with Pixel Gray Map Images (PGM files)
 
 [![Build Status](https://travis-ci.org/joshimoo/PGMLib.svg?branch=master)](https://travis-ci.org/joshimoo/PGMLib)
@@ -35,5 +35,5 @@ usage: ./sharpen src.pgm out.pgm
 <img src="doc/img/apples.png" width="45%"></img> <img src="doc/img/apples-sharpen.png" width="45%"></img>
 
 
-##Disclaimer
+## Disclaimer
 Published under the [MIT License](LICENSE).
